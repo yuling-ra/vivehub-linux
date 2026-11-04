@@ -1,0 +1,4 @@
+vut_capture
+data/
+*.png
+*_interpolated.csv
